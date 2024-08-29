@@ -1,6 +1,7 @@
 # Text to image search
 
 This project creates embeddings for images using the CLIP model and uploads them to Elasticsearch. Then it fires up a front end on streamlit to search images from a text query
+
 It uses the Flickr30k dataset but can be adapted for other image datasets easily.
 
 
